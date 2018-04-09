@@ -1,0 +1,17 @@
+## What is a_മമ's goal?
+Currently, a_മമ's primary goal is to generate structured data to solve two commercially important problems. They are Named-entity recognition and text classification. All official a_മമ activities will be pointed towards this goal. a_മമ will also accept any community contributions in the form of data, models or algorithms that can be recognized as Indic ML.
+
+## What is 'a_മമ after effect'?
+We believe in the power of community. With enough data, we could help researchers and ML engineers who would design great algorithms and models. a_മമ will provide them the opportunity, if they love to contribute their discoveries and experiments back to the public as a thankful gift.
+
+## We already have big companies and institutions working on this problem. So, is it necessory to start from the scratch?
+Data collection is different from technology design. Even though data is collected at multiple destinations, it all will add up. It can also be observed that the companies and institutions are keeping their Indic data copyrighted, exposing only the I/O interfaces mostly in a demo mode. They are doing that because, structured data collection is costly. That's why we always support `Karma coin` and `a_മമ after effect`.
+
+## a_മമ's primary goal's already been solved in other languages, especially in English. We already have language translation outstanding tools. If we could translate anything into English, these NLP problems can easily be solved. So, why don't a_മമ set its primary goal to improve language translation rather than to reinvent Indic ML?
+This is a great question. Let's answer this question in multiple points. 
+* Currently, some of the language translation projects produces out of the box results for common inputs. It still is an active field of research today. We can see a lot of communities that are actually helping them to succeed. We highly encourage you to contribute to those communities. 
+* Ideally, translation -> NLP -> translation method should work well once we could tackle at least these two problems: **proper translation of complex sentences in one language (in our case, Indic language) to other (say, English)** and **cross-language context awareness (sometimes context oriented translation of words needed to keep the meaning same)**. The point is this approach is closer to a generalized AI and that's ultimately what we all hope about the future. A lot of investments and research are going to this specific problem already. We encourage you to contribute to them. But to a_മമ, at least for now, it's out of the scope. Currently, we're interested in solutions that we all could benefit from within a relatively short period. So, narrow AI could help us here. We invite you to work together to support technology that could directly consume Indic data and hopefully produce better results. In the future, we could expand our idea beyond this boundary.
+* Just adding: as we have mentioned earlier, data is additive. We could easily convert this same data if we wanted in the future, to support cross-language implementations.
+
+## How will you handle Indic grammar and context?
+We hope a_മമ after effect will eventually give us out of the box results.
