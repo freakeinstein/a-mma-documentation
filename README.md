@@ -5,10 +5,10 @@ Welcome to a_mma indic ML documentation. Choose your language to get started.
 ## index
 
 ### English
-* [about]()
-* [FAQ]()
+* [about](https://github.com/a-mma/documentation/blob/master/00_about/about_en.md)
+* [FAQ](https://github.com/a-mma/documentation/blob/master/zz_FAQ/FAQ_en.md)
 
 
 ### Malayalam
-* [എന്താണ് ഈ എ_മ്മ]()
+* [എന്താണ് ഈ എ_മ്മ](https://github.com/a-mma/documentation/blob/master/00_about/about_ml.md)
 * [പൊതു സംശയങ്ങള്‍]()
