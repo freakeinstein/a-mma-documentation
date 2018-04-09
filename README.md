@@ -10,5 +10,5 @@ Welcome to a_mma indic ML documentation. Choose your language to get started.
 
 
 ### Malayalam
-* [എന്താണ് ഈ എ_മ്മ](https://github.com/a-mma/documentation/blob/master/00_about/about_ml.md)
-* [പൊതു സംശയങ്ങള്‍]()
+* [എന്താണ് ഈ എ_മ്മ](https://github.com/a-mma/documentation/blob/master/00_about/about_ml.md) [Status: Human corrected]
+* [പൊതു സംശയങ്ങള്‍]() [Status: Machine Translated - human correction needed]
