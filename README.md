@@ -5,7 +5,7 @@ Welcome to a_mma indic ML documentation. Choose your language to get started.
 ## index
 
 ### English
-* [about എ_മ്മ](https://github.com/a-mma/documentation/blob/master/00_about/about_en.md)
+* [about a_മ്മ](https://github.com/a-mma/documentation/blob/master/00_about/about_en.md)
 * [FAQ](https://github.com/a-mma/documentation/blob/master/zz_FAQ/FAQ_en.md)
 
 
