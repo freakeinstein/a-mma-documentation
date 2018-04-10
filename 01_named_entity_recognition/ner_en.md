@@ -1,0 +1,1 @@
+visit NER data collection interface [here](https://amma-ner-frontend.herokuapp.com) to contribute.

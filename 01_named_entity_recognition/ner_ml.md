@@ -1,0 +1,1 @@
+NER ഡാറ്റ സംഭാവന ചെയ്യുന്നതിനായി [ഇവിടെ](https://amma-ner-frontend.herokuapp.com) സന്ദർശിക്കുക.
