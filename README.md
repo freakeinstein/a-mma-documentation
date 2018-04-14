@@ -8,7 +8,7 @@ Welcome to a_mma indic ML documentation. Choose your language to get started. Or
 * language modelling
 	* [word vectors](https://github.com/a-mma/a-mma-documentation/blob/master/docs/01.10_language_modelling/word_vect_en.md)   [😎]
 * [named entity tagger](https://github.com/a-mma/a-mma-documentation/blob/master/docs/01_named_entity_recognition/ner_en.md) --- [use now](https://amma-ner-frontend.herokuapp.com/)   [😎]
-* [about a_മ്മ](https://github.com/a-mma/a-mma-documentation/blob/master/docs/00_about/about_en.md)   [😎]
+* [about a_മ്മ](https://github.com/a-mma/a-mma-documentation/blob/master/docs/00.10_about/about_en.md)   [😎]
 * [FAQ](https://github.com/a-mma/a-mma-documentation/blob/master/docs/zz_FAQ/FAQ_en.md)   [😎]
 
 
@@ -16,7 +16,7 @@ Welcome to a_mma indic ML documentation. Choose your language to get started. Or
 * ഭാഷാ മോഡലിംഗ്
 	* [വേഡ് വെക്റ്ററുകൾ](https://github.com/a-mma/a-mma-documentation/blob/master/docs/01.10_language_modelling/word_vect_ml.md) [🤖]
 * [നെയിംഡ് എന്റിറ്റി റ്റാഗര്‍](https://github.com/a-mma/a-mma-documentation/blob/master/docs/01_named_entity_recognition/ner_ml.md) --- [ഉപയോഗിക്കുക](https://amma-ner-frontend.herokuapp.com/)   [🤖]
-* [എന്താണ് ഈ എ_മ്മ](https://github.com/a-mma/a-mma-documentation/blob/master/docs/00_about/about_ml.md)   [😎]
+* [എന്താണ് ഈ എ_മ്മ](https://github.com/a-mma/a-mma-documentation/blob/master/docs/00.10_about/about_ml.md)   [😎]
 * [പൊതു സംശയങ്ങള്‍](https://github.com/a-mma/a-mma-documentation/blob/master/docs/zz_FAQ/FAQ_ml.md)   [🤖]
 
 ### a_മ്മ for students
