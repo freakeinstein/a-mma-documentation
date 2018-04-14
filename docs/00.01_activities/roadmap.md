@@ -9,3 +9,4 @@
 
 ## footnote
 * Ruled out tasks are started ones and are active to receive contributions. Nonactive tasks will be removed from this list eventually.
+* For all tasks (including ruled out ones), guides section will link to the person who is active at that time.

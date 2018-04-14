@@ -1,6 +1,6 @@
 # a_മ്മ documentation
 
-Welcome to a_mma indic ML documentation. Choose your language to get started. 
+Welcome to a_mma indic ML documentation. Choose your language to get started. Or see [a_മ്മ official roadmap](https://github.com/a-mma/a-mma-documentation/blob/master/docs/00.01_activities/roadmap.md) with live updates.
 
 ## index
 
