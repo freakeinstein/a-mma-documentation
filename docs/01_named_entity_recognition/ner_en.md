@@ -13,3 +13,6 @@ Indic NER algorithms are very important. In India, people are going through a tr
 a_മ്മ's role in Indic NER is to encourage training data from contributors and make it available to the public. We have released an early version of a data collection tool '**Named Entity Tagger**' which is available now online [here](https://amma-ner-frontend.herokuapp.com). 
 
 We primarily expect the community contributions in the form of tagged data through '**Named Entity Tagger**' tool. We also expect contributions as '**a_മ്മ after effects**' which includes Machine Learning Models, research contributions, engineering ideas.
+
+## Data usage Licence 
+We're looking forward to the best licensing method to keep contributions useful to the public. Currently, there are no restrictions.
