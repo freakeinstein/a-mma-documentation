@@ -12,7 +12,7 @@ Welcome to a_mma indic ML documentation. Choose your language to get started.
 * [FAQ](https://github.com/a-mma/a-mma-documentation/blob/master/docs/zz_FAQ/FAQ_en.md)   [😎]
 
 
-### Malayalam
+### മലയാളം 
 * ഭാഷാ മോഡലിംഗ്
 	* [വേഡ് വെക്റ്ററുകൾ](https://github.com/a-mma/a-mma-documentation/blob/master/docs/01.10_language_modelling/word_vect_ml.md) [🤖]
 * [നെയിംഡ് എന്റിറ്റി റ്റാഗര്‍](https://github.com/a-mma/a-mma-documentation/blob/master/docs/01_named_entity_recognition/ner_ml.md) --- [ഉപയോഗിക്കുക](https://amma-ner-frontend.herokuapp.com/)   [🤖]
