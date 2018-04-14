@@ -10,3 +10,7 @@ In general, word vector representation is very important part of most of the NLP
 ## What a_മ്മ does for this?
 
 a_മ്മ is interested to collect raw text data from websites, articles, newspapers (with the help of OCR). The collected data should be diverse and properly categorized. In this case, content creators are the ones who could mostly contribute. We request contributions from content creators for the greater good. Eventually, a_മ്മ after effect is expected to provide contributions from researchers and developers in the form of models and algorithms.
+
+## footnote
+
+To developers and researchers: Use [Facebook fasttext](https://fasttext.cc) (until this project gets matured) to contribute to other a_മ്മ repositories as **a_മ്മ after effects**.
