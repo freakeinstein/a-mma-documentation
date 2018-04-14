@@ -23,5 +23,5 @@ Welcome to a_mma indic ML documentation. Choose your language to get started.
 [youtube learning](https://www.youtube.com/channel/UCUvH5zy18T4Q1NNDmwKeorQ)
 
 ### indications and notations used in this document
-* **Document Status: Status: Human corrected** is denoted as 😎
+* **Document Status: Human corrected** is denoted as 😎
 * **Document Status: Machine Translated - human correction needed** is denoted as 🤖
